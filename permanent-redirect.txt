@@ -1,0 +1,27 @@
+<html>
+<head>
+<script LANGUAGE="JavaScript">
+<!--
+window.location.replace("http://anilwadghule.com/blog/");
+-->
+</script>
+<noscript>
+<meta http-equiv="Refresh" content="0; URL=http://anilwadghule.com/blog/"/>
+<meta http-equiv="expires" content="0"/>
+<meta name="robots" content="noindex"/>
+<meta name="Description" content="301 moved permanently"/>
+<meta name="KeyWords" content="301 moved permanently"/>
+<META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW"/>
+<META NAME="GOOGLEBOT" CONTENT="NOINDEX, FOLLOW"/>
+</noscript>
+<title>301 moved permanently</title>
+</head>
+<body>
+<center>
+<h1>Anil's Weblog</h1>
+<p>has been moved to new address</p>
+<a href=" http://anilwadghule.com/blog/"> 
+<h1>http://anilwadghule.com/blog</h1></a>
+<p>Sorry for inconvenience :-( </p>
+</body>
+</html>
